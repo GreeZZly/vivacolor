@@ -55,7 +55,7 @@ class Main extends CI_Controller {
 			$this->email->initialize($config);
 
 			$this->email->clear();
-		    $this->email->to('greezzly7@gmail.com');
+		    $this->email->to('greezzly7@gmail.com, t-z21@mail.ru');
 		    $this->email->from('info@t-z21.ru');
 		    $this->email->subject('Новая заявка!');
 		    $this->email->message("Привет!\nПоступила заявка от\nИмя: ".$data['name']."\nАдрес: ".$data['email']."\nТелефон: ".$data['phone']."");
