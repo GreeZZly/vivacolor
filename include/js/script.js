@@ -1,5 +1,11 @@
 $(function(){
-	
+	//ДЕВУШКА УЙДИ
+	$(window).on('resize', function(e){
+		var l = $('#counter').offset().left;
+		console.log(l);
+		$('#counter #nicegirl').css('left', l-200);
+	})
+	$(window).resize();
 	var note = $('#note'),
 		ts = new Date(2014, 0, 1),
 		newYear = true;
@@ -67,5 +73,6 @@ $(document).ready(function(){
       e.preventDefault();
    });
    return false;
+
 	
 });

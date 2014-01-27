@@ -69,9 +69,19 @@ a{
 }
 
 #counter_background {
+	position: relative;
 	height: 410px;
 	background-color: #F75C15;
 	background: linear-gradient(to top, #F75D16, #F78A26);
+}
+#counter #nicegirl{
+	width:450px;
+	height: 488px;
+	background-image: url(/include/images/nicegirl.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 0;
+	left: 120px;
 }
 #counter_background_lines {
 	height: 410px;
