@@ -15,6 +15,7 @@
 			</div>
 			<div class="counter_button"><a href="/main/form_php">ОСТАВЬТЕ ЗАЯВКУ</a></div>
 			<div id="counter_phone">или позвоните нам по номеру 8 (8352) 63-63-59</div>
+			<div id="nicegirl"></div>
 		</div>
 	</div>
 </div>
