@@ -352,18 +352,18 @@ a{
 	position: relative;
 }
 #question #fathairyman{
-	position: absolute;
+	/*position: absolute;
 	top:0;
-	right: -309px;
-	background-image: url('/include/images/fathairyman.png');
-	background-repeat: no-repeat;
+	right: -309px;*/
+	/*background-image: url('/include/images/fathairyman.png');*/
+	/*background-repeat: no-repeat;*/
 	/*background-position: 502px;*/
-	background-size: auto 274px;
-	width: 472px;
-	height: 274px;
+	/*background-size: auto 274px;*/
+	/*width: 472px;*/
+	/*height: 274px;*/
 }
 #question div:not(.question_button){
-	margin: 30px auto;
+	margin: 30px auto 0;
 }
 
 .question_button {
