@@ -360,7 +360,7 @@ a{
 	/*background-position: 502px;*/
 	/*background-size: auto 274px;*/
 	/*width: 472px;*/
-	/*height: 274px;*/
+	height: 302px;
 }
 #question div:not(.question_button){
 	margin: 30px auto 0;
