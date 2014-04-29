@@ -1,4 +1,4 @@
-<div id="whywe_bg">
+<!--<div id="whywe_bg">
 	<div id="whywe"><a name="whywe"></a>
 		<div id="whywe_title">5 причин, по которым выбирают наши краски:</div>
 		<div id="whywe_gallery">
@@ -54,4 +54,4 @@
 		</div>
 
 	</div>
-</div>
+</div> -->

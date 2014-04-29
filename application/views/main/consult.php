@@ -1,4 +1,4 @@
-<div id="consult_background">
+<!--<div id="consult_background">
 	<div id="consult"  class="cb"><a name="consult"></a>
 		<div id="consult_title">Эксперты проконсультируют</div>
 		<div id="consult_content_top">
@@ -17,4 +17,4 @@
 		</div>
 
 	</div>
-</div>
+</div>-->

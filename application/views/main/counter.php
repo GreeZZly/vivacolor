@@ -1,4 +1,4 @@
-<div id="counter_background">
+<!--<div id="counter_background">
 	<div id="counter_background_lines">
 		<div id='counter' class="cb">
 			<div class="counter_title">Хотите программу цветового дизайна в подарок?</div>
@@ -18,4 +18,4 @@
 			<div id="nicegirl"></div>
 		</div>
 	</div>
-</div>
+</div> -->

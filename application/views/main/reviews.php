@@ -1,7 +1,7 @@
-<div id="reviews_background">
+<!--<div id="reviews_background">
 	<div id="reviews" class="cb"> <a name="reviews"></a>
 		<!-- <div class="icon_rev_left"></div> -->
-		<ul class="bxslider">
+<!--		<ul class="bxslider">
 			<li>
 				<div id="reviews_info">
 					<div id='reviews_title'><i>Михаил, 10.02.2012</i></div>
@@ -82,5 +82,5 @@
 			</li>
 		</ul>
 		<!-- <div class="icon_rev_right"></div> -->
-	</div>
-</div>
+<!--	</div>
+</div> -->

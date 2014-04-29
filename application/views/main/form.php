@@ -4,7 +4,7 @@
 		
 		<div id="error_block"><?php echo validation_errors(); ?></div>
 		
-		<form action="/main/order" method="POST">
+		<form action="/main/order_phone" method="POST">
 			<div id="form_title">Заполните заявку</div>
 			<input type="text" class="input" name="name" placeholder="Ваше имя…" value="<?php echo set_value('name'); ?>">
 			<input type="text" class="input" name="email" placeholder="Ваш email адрес…" value="<?php echo set_value('email'); ?>">

@@ -1,15 +1,28 @@
 <div id="footer_bg">
+   <div class="container">	
 	<div id="footer">
-		<div id="footer_menu">
+	<!--	<div id="footer_menu">
 			<div class="footer_menu_item"><a href="#reviews">Отзывы</a></div>
 			<div class="footer_menu_item"><a href="#consult">Эксперты проконсультируют</a></div>
 			<div class="footer_menu_item"><a href="#jaob">Краски</a></div>
 			<div class="footer_menu_item"><a href="#whywe">Наши преимущества</a></div>
 			<div class="footer_menu_item"><a href="#howchoose">Как выбрать</a></div>
-			<div class="footer_menu_item"><a href="#banner">Доставка</a></div>
+			<div class="footer_menu_item"><a href="#banner">Доставка</a></div>-->
+		</div> 
+		<div class="row-fluid">
+		   <div class="span6 phone_footer">
+			<div class="footer_contacts">8 (8352) 63-63-59</div>
+		     <div class="link_block"> 
+		      <div id="" class="link" ><a href="/main/form_php">Заказать звонок</a></div>
+		     </div>
+		   </div>
+		   <div class="span6 sellingsites_logo">
+              Разработка сайта <a href="http://sellingsites.pro"><img src="/include/images/sellingsites.png"></a>
+		   </div>
+           
+
 		</div>
-		<div class="footer_contacts">8 (8352) 63-63-59</div>
-		<div class="footer_contacts">t-z21@mail.ru</div>
+		<!--<div class="footer_contacts">t-z21@mail.ru</div>-->
 						<!-- Yandex.Metrika counter -->
 				<script type="text/javascript">
 				(function (d, w, c) {
@@ -37,5 +50,6 @@
 				</script>
 				<noscript><div><img src="//mc.yandex.ru/watch/23797594" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 				<!-- /Yandex.Metrika counter -->
+	 
 	</div>
 </div>

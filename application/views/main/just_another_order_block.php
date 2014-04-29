@@ -1,4 +1,4 @@
-<div id="jaob_background">
+<!--<div id="jaob_background">
 	<div id="jaob" class="cb"><a name="jaob"></a>
 		<div id="jaob_title">Краски для всех видов работ</div>
 		<div id="jaob_img"></div>
@@ -13,4 +13,4 @@
 			<div class="jaob_button"><a href="/main/form_php">ОСТАВЬТЕ ЗАЯВКУ</a></div>
 		</div>
 	</div>
-</div>
+</div>-->

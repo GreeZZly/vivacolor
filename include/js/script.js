@@ -1,4 +1,4 @@
-$(function(){
+/*$(function(){
 	//ДЕВУШКА УЙДИ
 	$(window).on('resize', function(e){
 		var l = $('#counter').offset().left;
@@ -39,7 +39,7 @@ $(function(){
 		}
 	});
 	
-});
+});*/
 
 $(document).ready(function(){
 	$('.consult_content_item').on('click',function(){

@@ -1,4 +1,4 @@
-<div id="howchoose_bg">
+<!--<div id="howchoose_bg">
 	<div id="howchoose"><a name="howchoose"></a>
 		<div id="howchoose_title">Как выбрать?</div>
 		<ol>
@@ -16,4 +16,4 @@
 			</li>
 		</ol>
 	</div>
-</div>
+</div>-->
